@@ -1,0 +1,79 @@
+Lista 1:
+CSES 1083 - Missing Number
+CSES 1069 - Repetitions
+CSES 1094 - Increasing Array
+CSES 1070 - Permutations
+CSES 1617 - Bit Strings
+
+Lista 2:
+Beecrowd 1471 - Mergulho
+CSES 1071 - Number Spiral
+Beecrowd 1177 - Preenchimento de Vetor II
+CSES 1755 - Palindrome Reorder
+Beecrowd 1861 - O Hall dos Assassinos
+
+Lista 3:
+Esta atividade consiste em resolver os problemas listados abaixo. Dica: ao considerar cada problema, analise se é interessante utilizar uma (ou mais) das estruturas de dados disponíveis na STL do C++.
+CSES 1754 - Coin Piles
+Beecrowd 1069 - Diamantes e Areia
+Beecrowd 2136 - Amigos do Habay
+Beecrowd 1110 - Jogando Cartas Fora
+Beecrowd 2091 - Número Solitário
+
+Lista 4:
+Esta atividade consiste em resolver os problemas listados abaixo. Dica: ao considerar cada problema, analise se é interessante ordenar os dados de entrada.
+CSES 1621 - Distinct Numbers
+CSES 1084 - Apartments
+CSES 1090 - Ferris Wheel
+Beecrowd 2018 - Olimpíadas de Natal
+Beecrowd 3420 - House of Cards
+
+Lista 5:
+Esta atividade consiste em resolver os problemas listados abaixo. Além dos problemas, dicas para a resolução dos mesmos são apresentadas a seguir
+Beecrowd 1566 - Altura
+Beecrowd 1244 - Ordenação por Tamanho
+Beecrowd 2312 - Quadro De Medalhas
+Beecrowd 1709 - Baralho Embaralhado
+Beecrowd 1473 - Linhas de Contêiners
+Dicas:
+Beecrowd 1566 - Altura:
+Considere utilizar o algoritmo de ordenação counting sort.
+Beecrowd 1244 - Ordenação por Tamanho:
+Pesquise o que é um algoritmo de ordenação estável (stable sorting) e se existe uma função que atenda a este requisito disponível na biblioteca padrão do C++.
+Beecrowd 2312 - Quadro De Medalhas:
+Analise se este problema é uma versão simplificada de um problema passado anteriormente.
+Beecrowd 1709 - Baralho Embaralhado:
+Considere se é necessário realizar uma ordenação para resolver o problema ou se existe um padrão simples que pode ser usado para contar a quantidade requisitada.
+Beecrowd 1473 - Linhas de Contêiners:
+Pesquise por um algoritmo de ordenação que realize o menor número possível de trocas de elementos e tente usá-lo para resolver o problema.
+
+Lista 6:
+CSES 1624 - Chessboard and Queens
+Beecrowd 1878 - Torneios em Sequência
+CSES 1630 - Tasks and Deadlines
+
+Lista 7:
+Analisar os problemas listados abaixo e identificar 3 problemas que podem ser resolvidos através de um algoritmo guloso;
+Resolver os 3 problemas identificados no item anterior.
+Beecrowd 1034 - Festival de Estátuas de Gelo
+Beecrowd 1086 - O Salão do Clube
+Beecrowd 1601 - Partição do Rebanho
+Beecrowd 1936 - Fatorial
+Beecrowd 1966 - A Volta para Casa (Dica: Caso você entenda que este é um dos 3 problemas citados acima, considere calcular o valor final requisitado no problema utilizando a expressão (int) (-0.5 + sqrt(0.25 + 2 * vol_queijo_comprado)), onde vol_queijo_comprado representa o volume de queijo comprado por João.)
+
+Lista 8:
+Beecrowd 1487 - Six Flags
+Beecrowd 1034 - Festival de Estátuas de Gelo
+Beecrowd 1475 - Remendo
+
+Lista 9:
+CSES 1633 - Dice Combinations
+Beecrowd 1341 - Crianças em uma Grade
+Dica: Pesquise pelo problema "Maior Subsequência Comum" e analise as semelhanças entre este problema e o problema a ser resolvido.
+Beecrowd 1932 - Bolsa de Valores
+Dica: Pense nas possíveis transações que o investidor pode realizar a cada dia (comprar a ação, vender a ação ou não comprar nem vender a ação) e se concentre em calcular a soma dos valores destas transações de um determinado dia em diante.
+
+Lista 10:
+CSES 1192 - Counting Rooms
+Beecrowd 1862 - Casas de Westeros
+Beecrowd 1469 - Chefe
