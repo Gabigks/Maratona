@@ -9,7 +9,6 @@ int main(){
 
   
 
-
   return 0;
 }
 //g++ -std=c++11 -o2 -Wall index.cpp -o test
